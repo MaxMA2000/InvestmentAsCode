@@ -7,6 +7,7 @@ This is the master repository for project "InvestmentAsCode"
 - [InvestmentAsCode-AssetServices](https://github.com/MaxMA2000/InvestmentAsCode-AssetServices)
 - [InvestmentAsCode-StockServices](https://github.com/MaxMA2000/InvestmentAsCode-StockServices)
 - [InvestmentAsCode-CryptoServices](https://github.com/MaxMA2000/InvestmentAsCode-CryptoServices)
+- [InvestmentAsCode-UserServices](https://github.com/MaxMA2000/InvestmentAsCode-UserServices)
 
 
 ## InvestmentAsCode System Architecture
